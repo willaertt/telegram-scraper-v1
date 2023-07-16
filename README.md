@@ -35,7 +35,7 @@ The `environment.yml` file in the scraper repository makes it easy to recreate t
 
 ## 3 Running the scraper from the command line
 
-The scraper can be run from the command line. First, activate the required environment following the procedure outlined above. The, in the telegram-scraper folder, run the following command to start scraping: 
+The scraper can be run from the command line. First, activate the required environment following the procedure outlined above. Then, in the telegram-scraper folder, run the following command to start scraping: 
 
 `python telegram_scraper_terminal_multiprocess.py -p -d -s`
 
